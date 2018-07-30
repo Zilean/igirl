@@ -1,0 +1,22 @@
+{
+  "name": "igirl",
+  "version": "0.0.1",
+  "description": "igirl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zilean/igirl.git"
+  },
+  "keywords": [
+    "igirl"
+  ],
+  "author": "weich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zilean/igirl/issues"
+  },
+  "homepage": "https://github.com/Zilean/igirl#readme"
+}
